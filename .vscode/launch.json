@@ -33,7 +33,8 @@
     "compounds": [
         {
             "name": "Debug with Hot Reload",
-            "configurations": [ "Watch", "Attach" ]
+            "configurations": [ "Watch", "Attach" ],
+            // Didnt stop popup - "launchBrowser": false
             // Didnt stop popup - "runtimeExecutable": "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe"
         }
     ]
